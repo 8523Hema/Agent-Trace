@@ -12,3 +12,4 @@ langchain-google-genai
 llama-index-core
 asyncpg
 psycopg2-binary
+gunicorn
